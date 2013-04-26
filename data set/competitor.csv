@@ -1,0 +1,5 @@
+id,compID_id,compFname,minit,compLname,ssn,bdate,streetAddr1,streetAddr2,city,state,zip,gender,educationLevel,secquestion1,answer1,secquestion2,answer2,secquestion3,answer3
+1,5,Maathangi,,Kumar,123456789,2011-12-22,"7825 mccallum","chatham courts",Richardson,Texas,75252,F,MS,2,cts,7,ssv,11,radha
+2,13,harish,,babu,1112221122,1988-12-13,"314, mccallum,",blvd,texas,texas,75252,M,major,4,3,6,3,11,3
+3,9,New,,User,3334445555,1990-12-13,"314, mccallum,",blvd,texas,texas,75252,M,major,2,3,6,3,10,3
+4,21,Balaji,,Raghavachari,1119994454,2012-12-13,"314, mccallum,",blvd,texas,texas,75252,M,major,2,3,7,3,10,3

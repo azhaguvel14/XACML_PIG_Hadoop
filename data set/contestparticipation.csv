@@ -1,0 +1,16 @@
+id,contestQuestionId_id,compId_id,judgeId_id,score,status,lang_used,filepath
+1,1,1,2,NULL,NA,cpp,NULL
+2,2,1,2,0,submitted,j,NULL
+3,3,1,2,0,submitted,c,NULL
+4,2,2,2,0,submitted,cpp,User/Second_2.py
+6,3,2,2,30,scored,,User/Second_1.py
+7,5,2,2,30,scored,,User/First_4.py
+8,5,2,NULL,0,submitted,j,User/Templates_Read_Me.txt
+9,2,2,NULL,0,submitted,cpp,User/Project_Learning_Materials.txt
+10,2,2,NULL,0,submitted,j,User/Project_Learning_Materials_1.txt
+11,2,2,NULL,0,submitted,j,User/Project_Learning_Materials_2.txt
+12,2,2,NULL,0,submitted,j,User/Project_Learning_Materials_3.txt
+13,2,2,NULL,0,submitted,j,User/Project_Learning_Materials_4.txt
+14,2,2,NULL,0,submitted,j,User/OPERATION_SHERLOCK.txt
+15,1,4,NULL,0,submitted,j,User/Table_Design.txt
+16,4,2,2,0,submitted,c,User/temp.c
