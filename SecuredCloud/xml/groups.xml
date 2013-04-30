@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Groups>
+    <Group ID="manager">
+        <Member>manoj</Member>
+    </Group>
+    <Group ID="admin">
+        <Member>harish babu</Member>
+        <Member>admin</Member>
+    </Group>
+    <Group ID="guest">
+        <Member>guest</Member>
+    </Group>
+    <Group ID="employee">
+        <Member>meenakshi</Member>
+    </Group>
+</Groups>

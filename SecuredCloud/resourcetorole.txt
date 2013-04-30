@@ -1,0 +1,8 @@
+project	guest admin	manager
+works_on	admin employee manager
+department	admin employee manager
+dependent	admin employee manager
+location	admin employee manager
+employee	admin employee
+pages	admin employee manager
+users	admin employee manager
